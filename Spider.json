@@ -22,5 +22,11 @@
         "key": "SINA-SAFE-2DAY",
         "expirydate": "04-07-2300",
         "Allowoffline": true
+    },
+    {
+        "device_id": "58e23c2d6c00b144",
+        "key": "SPIDER",
+        "expirydate": "16-08-4764",
+        "Allowoffline": true
     }
 ]

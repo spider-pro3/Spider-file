@@ -16,5 +16,11 @@
         "key": "SAFE-2DAY-INJE",
         "expirydate": "04-07-2300",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9169d521aa38e018",
+        "key": "SINA-SAFE-2DAY",
+        "expirydate": "04-07-2300",
+        "Allowoffline": true
     }
 ]

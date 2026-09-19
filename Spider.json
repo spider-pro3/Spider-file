@@ -10,5 +10,11 @@
         "key": "Mahan",
         "expirydate": "18-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e2139307637b9435",
+        "key": "SAFE-2DAY-INJE",
+        "expirydate": "04-07-2300",
+        "Allowoffline": true
     }
 ]

@@ -28,5 +28,11 @@
         "key": "SPIDER",
         "expirydate": "16-08-4764",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2c83b8349aae5ade",
+        "key": "DEXTER",
+        "expirydate": "27-11-2026",
+        "Allowoffline": true
     }
 ]
